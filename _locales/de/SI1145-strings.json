@@ -1,0 +1,5 @@
+{
+	"SI1151.readUltraVioletIndex|block": "UV Index",
+	"SI1151.readLight|block": "Licht Intensität",
+	"SI1151.readInfraRed|block": "IR Intensität"
+}

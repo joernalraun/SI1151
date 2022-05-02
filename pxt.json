@@ -1,0 +1,18 @@
+{
+    "name": "SI1151",
+    "version": "0.0.1",
+    "description": "SI1151 for MakeCode",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/de/SI1151-strings.json",
+        "_locales/de/SI1151-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
